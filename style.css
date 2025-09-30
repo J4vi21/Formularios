@@ -1,7 +1,7 @@
 /* Estilos generales y del cuerpo */
 body {
     font-family: Arial, sans-serif;
-    background-color: #f4f4f9; /* Fondo gris claro */
+    background-color: #3b3b3b; /* Fondo gris claro */
     display: flex;
     justify-content: center; /* Centra horizontalmente */
     align-items: center; /* Centra verticalmente */
@@ -14,7 +14,7 @@ body {
     background-color: #ffffff; /* Fondo blanco para la caja del formulario */
     padding: 30px 40px;
     border-radius: 8px; /* Esquinas redondeadas */
-    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); /* Sombra suave */
+    box-shadow: 0 4px 10px rgba(255, 0, 0, 0.1); /* Sombra suave */
     width: 300px;
 }
 
@@ -47,7 +47,7 @@ input[type="password"] {
 /* Estilo del botón de envío */
 input[type="submit"] {
     width: 100%;
-    background-color: #007bff; /* Color azul primario */
+    background-color: #ff0000; /* Color azul primario */
     color: white;
     padding: 12px;
     border: none;
